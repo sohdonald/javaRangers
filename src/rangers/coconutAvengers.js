@@ -2,31 +2,37 @@ const coconutAvengers = [
     {
         id: 0,
         name: "",
-        color: ""
+        color: "",
+        zord: ""
     },
     {
         id: 1,
         name: "",
-        color: ""
+        color: "",
+        zord: ""
     },
     {
         id: 2,
         name: "",
-        color: ""
+        color: "",
+        zord: ""
     },
     {
         id: 3,
         name: "",
-        color: ""
+        color: "",
+        zord: ""
     },
     {
         id: 4,
         name: "",
-        color: ""
+        color: "",
+        zord: ""
     },
     {
         id: 5,
         name: "",
-        color: ""
-    },
+        color: "",
+        zord: ""
+    }
 ]
